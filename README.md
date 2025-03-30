@@ -44,6 +44,10 @@
 <hr>
 <div><b>Trick:</b> Do not hardcore your <i>telegram-bot-token</i> and <i>ai-api-key</i> directly in the program provided.</div>
 <hr>
+<div>
+  <b>LINKS - </b><br>
+  <p>Telegram BOTFATHER : https://t.me/BotFather<br>GEMINI AI API KEY : https://aistudio.google.com/app/apikey</p>
+</div>
 <hr>
 <b>Developer : HIMANSHU ARYAN</b>
 <hr>
