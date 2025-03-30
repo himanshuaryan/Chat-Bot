@@ -21,6 +21,29 @@
     <li><b>Efficiency:</b> The code uses asynchronous functions to improve responsiveness.</li>
     <li><b>Scalability:</b> The code can be easily scaled to handle more users and requests by adjusting the polling interval and potentially using a more powerful server.</li>
   </ul>
+<h4><b>Requirements:</b></h4>
+  <ul>
+    <li>
+      <h3><b>Python Libraries:</b></h3>
+      <ol>
+        <li><b>python-telegram-bot:</b> This library provides the interface for interacting with the Telegram Bot API. To install this library, run below code on your device terminal:<br>
+   <b>pip install python-telegram-bot</b></li>
+        <li><b>google-generativeai:</b> This library allows you to use Google's Generative AI models. To install this library, run below code on your device terminal:<br>
+   <b>pip install google-generativeai</b></li>
+      </ol>
+    </li>
+    <li>
+      <h3><b>API Keys:</b></h3>
+      <ol>
+        <li><b>Telegram Bot Token:</b> You'll need a Telegram bot token, which you can obtain by creating a bot using <i>BotFather</i> on Telegram. This token is a string that looks like <b><i>"123456789:ABCDEFGhijklmnopqrsTUVWXYZ".</i></b></li>
+        <li><b>Google Generative AI API Key:</b> You'll need a Google Generative AI API key to access the AI model. You can obtain this from the <b><i>Google Cloud Console</i></b>.</li>
+      </ol>
+    </li>
+  </ul>
 </p>
 <hr>
+<div><b>Trick:</b> Do not hardcore your <i>telegram-bot-token</i> and <i>ai-api-key</i> directly in the program provided.</div>
+<hr>
+<hr>
 <b>Developer : HIMANSHU ARYAN</b>
+<hr>
